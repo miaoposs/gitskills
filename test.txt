@@ -2,3 +2,4 @@ test github
 test git diff
 add a new branch
 create a new branch is easy and quick
+use --no-ff log merge operation
