@@ -3,3 +3,6 @@ test git diff
 add a new branch
 create a new branch is easy and quick
 use --no-ff log merge operation
+
+2016-8-14
+test remote remaind information
