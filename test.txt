@@ -5,4 +5,5 @@ create a new branch is easy and quick
 use --no-ff log merge operation
 
 2016-8-14
-test remote remaind information
+test remote remaind information 
+try to push by anther remote connect to a different repository
